@@ -1,5 +1,5 @@
 # portfolio
-Detail information about me 
+Detail information about me 👾
 
 
 link: https://mohan-ai-portfolio-forge.lovable.app/
